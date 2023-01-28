@@ -33,7 +33,8 @@ The testvid.py file shows the model in action on a video stream, with both algor
 Results can be found in the model folder, with a csv file showing various model parameters and some plot images.
 
 
-https://user-images.githubusercontent.com/66518563/215289291-63e33b61-d636-4577-a504-9656f79e3970.mp4
+https://user-images.githubusercontent.com/66518563/215289444-6f2441cd-26e8-46b1-8468-dea57299b314.mp4
+
 
 
 
