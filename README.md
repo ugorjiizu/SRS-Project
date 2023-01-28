@@ -28,7 +28,8 @@ The goal of this project is to improve the effectiveness and efficiency of rescu
 
 **Security**
 
-![image](https://user-images.githubusercontent.com/66518563/215282715-eda2b2cc-21ef-42dd-89db-cc083d4330a5.png)
+![Surveillance Camera Records Deadly State Street Shootout (73)](https://user-images.githubusercontent.com/66518563/215283052-864a3c26-949f-4515-be47-2c039ab8bf9e.jpg)
+
 
 This project aims to develop a security object detection system that uses computer vision algorithms to detect and classify objects in real-time video streams. The goal of the project is to automatically identify and track objects of interest, such as people and guns, in order to detect and alert security personnel of potential security breaches.
 We used a deep learning-based object detection algorithm, such as Faster RCNN, to train a model on a dataset of labeled security footage.
