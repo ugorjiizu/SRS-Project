@@ -8,6 +8,7 @@ It contains aerial-drone videos with 40,000 hand-annotated persons and objects f
 The AFO dataset contains images taken from fifty video clips containing objects floating on the water surface, 
 captured by the various drone-mounted cameras (from 1280x720 to 3840x2160 resolutions), which have been used to create AFO. 
 From these videos, we have extracted and manually annotated 3647 images that contain 39991 objects.
+
 These have been then split into three parts: the training (67,4% of objects), the test (19,12% of objects), and the validation set (13,48% of objects). 
 In order to prevent overfitting of the model to the given data, the test set contains selected frames from nine videos that were not used in either the training or validation sets
 
@@ -20,8 +21,9 @@ Wojciech Sulewski, Dariusz Nawrocki, and Wojciech Kubiela - photographs who deci
 
 **Model Building**
 
-In the first section of the project we used a YOLOV5m model with some layer freezing technique to build our first model, but we noticed low mAP results in some classes, to
-combat this we used the data slicing method to build our model. To  build the model i suugest run the notebook file in the kaggle environment for ease. 
+In the first section of the project we used a YOLOV5m model with some layer freezing technique to build our first model, but we noticed low mAP results in some classes, to combat this we used the data slicing method to build our model. 
+
+To  build the model i suugest run the notebook file in the kaggle environment for ease. 
 You can check out the main model building notebook with different versions on kaggle @ https://www.kaggle.com/code/ugorjiir/rescuefobj/notebook?scriptVersionId=114804963
 Or you can use the weights in the model folder for simple inference.
 
@@ -38,3 +40,9 @@ An example of the result is below:
 **Results**
 
 Results can be found in the model folder, with a csv file and some plot images.
+
+
+
+https://user-images.githubusercontent.com/66518563/215289589-65aa98ba-663d-4716-b3c2-3433ed5724ad.mp4
+
+
