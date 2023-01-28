@@ -1,7 +1,7 @@
 **Security**
 
 This folder contains the Security object detection model. The model was built using a Faster RCNN network with a ResNet50 backbone using pytorch.
-Most of our images was collected from fellow Kaggler A. N. M. JUBAER (https://www.kaggle.com/datasets/jubaerad/weapons-in-images-segmented-videos?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin) but with no annotations available.
+Most of our images was collected from fellow Kaggler A. N. M. JUBAER but with no annotations available.
 The Images were then Hand annotated in yolo format using Labelimg, which is an annotation tool.
 The final dataset used contains over 1000 images annotated with two major classes, Human and Gun. 
 These annotations were done using labelimg. The classes.txt contains a list of our classes. 
