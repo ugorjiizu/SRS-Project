@@ -13,8 +13,8 @@ In order to prevent overfitting of the model to the given data, the test set con
 
 ![a_303](https://user-images.githubusercontent.com/66518563/215276839-9f499afd-001f-4d95-8ca0-6a73e61f5fc3.jpg)
 
-
 **Data Ackwoledgements**
+
 This work was supported by the Polish National Science Center under grant no. 2016/21/B/ST6/01461. We would also like to express our thanks to Agnieszka Malonik Taggart,
 Wojciech Sulewski, Dariusz Nawrocki, and Wojciech Kubiela - photographs who decided to support our project by sending us videos for the AFO dataset.
 
